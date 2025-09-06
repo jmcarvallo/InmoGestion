@@ -186,7 +186,7 @@ lib/
 │           └─ property_card.dart
 assets/
 └─ images/
-   └─ login_bg.jpg
+   └─ login_bg.png
 ```
 
 ---
